@@ -45,3 +45,7 @@ Pursuit for Knowledge is a top-down, 2D role-playing game built entirely in MATL
 
    ```matlab
    RPG_Network
+   ```
+
+## Contributers
+This project was collaboratively developed by Brandon Hudepohl, Daniel Watts, Foster Sariscak, and Erik Zhang as part of the Fundamentals of Engineering Software Design Project.
